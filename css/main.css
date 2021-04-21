@@ -13,12 +13,12 @@ header {
     width: 100%;
     margin-bottom: 40px;
 }
-header>img {
+header > img {
     display: inline-block;
     height: 50px;
     float: left;
 }
-header>nav {
+header > nav {
     display: inline-block;
     float: right;
     margin-top: 6px;
@@ -63,11 +63,11 @@ h1 {
 }
 p {
     display: inline-block;
-    width: 45%;
-    float: left;
-    margin-left: 10%;
+    width: 100%;
+    fot-size: 25px;
+    margin: 0;
 }
-section>img {
+section > img {
     display: inline-block;
     width: 45%;
     float: left;
